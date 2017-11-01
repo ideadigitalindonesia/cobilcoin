@@ -1,0 +1,9 @@
+Building Cobilcoin
+
+See doc/readme-qt.rst for instructions on building Cobilcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cobilcoin.
+
+See doc/build-*.txt for instructions on building cobilcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cobilcoin.
